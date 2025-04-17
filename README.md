@@ -23,7 +23,7 @@ I'm a passionate programmer who loves coding and creating new things. I really e
 
 </div>  
 
-## 💻 Languages & Tools  
+## 💻 Languages  
 
 <div align="center">  
 
