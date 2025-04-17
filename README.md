@@ -1,7 +1,5 @@
 # Hi there, I'm AltairYT0 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7AC6&width=435&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)  
-
 ## 🎯 About Me  
 
 <div align="center" style="border: 2px solid #FF7AC6; border-radius: 10px; padding: 20px; margin: 10px 0;">  
@@ -15,10 +13,7 @@ I'm a passionate programmer who loves coding and creating new things. I really e
 
 ## 📊 Coding Activity  
 
-<div align="center">  
-
-<!-- GitHub Stats Card -->  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AltairYT0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
+<div align="center">   
 
 <!-- Most Used Languages -->  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AltairYT0&layout=compact&theme=radical&hide_border=true&langs_count=6)  
